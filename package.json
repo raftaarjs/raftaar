@@ -1,0 +1,24 @@
+{
+  "name": "raftaar",
+  "version": "0.0.1",
+  "description": "RaftaarJS Compiler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raftaarjs/raftaar.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "js"
+  ],
+  "author": "Gaurav Panchal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raftaarjs/raftaar/issues"
+  },
+  "homepage": "https://github.com/raftaarjs/raftaar#readme"
+}
